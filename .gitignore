@@ -1,3 +1,23 @@
-.git/
-dsa
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
 
+# Java
+*.class
+target/
+*.jar
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.project
+.classpath
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db   
