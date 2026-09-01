@@ -34,3 +34,14 @@ print("Value at index i, j:")
 print(lt.get(2,2))
 print("Array: ", lt.arr)
 
+""" OUTPUT:
+
+1 0 0 
+2 3 0 
+4 5 6 
+Value at index i, j:
+6
+Array:  [1, 2, 3, 4, 5, 6]
+
+"""
+

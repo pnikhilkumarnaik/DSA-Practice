@@ -54,7 +54,7 @@ class LowerTriangularMatrix {
 }
 
 
-public class Main {
+public class LTMatrix {
 
     public static void main(String[] args) {
 
