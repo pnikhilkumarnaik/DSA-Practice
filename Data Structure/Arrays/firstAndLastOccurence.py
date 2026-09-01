@@ -49,7 +49,8 @@ arr = [1, 2, 2, 2, 3, 4]
 print(first_occurrence(arr, 2))
 print(last_occurrence(arr, 2))
 
-"""Output:  
+"""
+Output:  
 0
 3
 """
