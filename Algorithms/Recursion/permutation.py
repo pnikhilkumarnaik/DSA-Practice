@@ -13,14 +13,14 @@ def permutations(arr):
             if used[i]:
                 continue
 
-            # Make choice
+            
             used[i] = True
             current.append(arr[i])
 
-            # Explore
+            
             backtrack(current, used)
 
-            # Undo choice
+            
             current.pop()
             used[i] = False
 
